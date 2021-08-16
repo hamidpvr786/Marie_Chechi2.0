@@ -27,7 +27,7 @@ PM_START_TEXT = """
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
 Developer  : [Hamid p](t.me/hamidpvr786)
-
+"""
 
 HELP_STRINGS = """
 Hi.... ! എന്റെ പേര് *{}*.
