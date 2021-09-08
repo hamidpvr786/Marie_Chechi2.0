@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് {}, എന്റെ പേര് {}! എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും... 
+ഹായ് {}, എന്റെ പേര് **{}**! എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും... 
 എന്റെ ന്യൂ ഫീച്ചേർസ് @madeenabots ചാനലിൽ ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @madeenabotsgroup എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
 
 എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](tg://user?id={}) ആണ് . 
@@ -26,7 +26,7 @@ PM_START_TEXT = """
 എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
-Developer  : [Hamid p](t.me/hamidpvr786)
+Developer  : [Hamid P](t.me/hamidpvr786)
 """
 
 HELP_STRINGS = """
